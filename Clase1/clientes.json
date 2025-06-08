@@ -1,0 +1,14 @@
+[
+    {
+        "id_cliente": 1,
+        "apellido": "Britos",
+        "nombre": "Cristian",
+        "dni": 14110
+    },
+    {
+        "id_cliente": 2,
+        "apellido": "Britos",
+        "nombre": "Fatima",
+        "dni": 49000
+    }
+]

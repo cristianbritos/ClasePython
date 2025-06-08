@@ -1,0 +1,49 @@
+{
+    "alumnos": [
+        {
+            "nombre": "Maria",
+            "dni": "51000",
+            "matricula": "51"
+        },
+        {
+            "nombre": "Fatima",
+            "dni": "49000",
+            "matricula": "49"
+        }
+    ],
+    "profesores": [
+        {
+            "nombre": "Cristian",
+            "dni": "24000",
+            "legajo": "24"
+        }
+    ],
+    "cursos": [
+        {
+            "nombre": "Informatica",
+            "tipo": "Inicial",
+            "descripcion": "Sistemas",
+            "profesor": {
+                "nombre": "Cristian",
+                "dni": "24000",
+                "legajo": "24"
+            },
+            "alumnos": [
+                {
+                    "nombre": "Maria",
+                    "dni": "51000",
+                    "matricula": "51"
+                },
+                {
+                    "nombre": "Fatima",
+                    "dni": "49000",
+                    "matricula": "49"
+                }
+            ],
+            "notas": {
+                "51": 10.0,
+                "49": 9.0
+            }
+        }
+    ]
+}
