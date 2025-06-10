@@ -1,0 +1,296 @@
+[
+    {
+        "ID": "1000",
+        "Nombre": "Camiseta",
+        "Stock": "44",
+        "Precio": "6202"
+    },
+    {
+        "ID": "1001",
+        "Nombre": "Pantalón",
+        "Stock": "19",
+        "Precio": "6792"
+    },
+    {
+        "ID": "1002",
+        "Nombre": "Zapatos",
+        "Stock": "7",
+        "Precio": "6412"
+    },
+    {
+        "ID": "1003",
+        "Nombre": "Yerba",
+        "Stock": "88",
+        "Precio": "4756"
+    },
+    {
+        "ID": "1004",
+        "Nombre": "Azúcar",
+        "Stock": "22",
+        "Precio": "5094"
+    },
+    {
+        "ID": "1005",
+        "Nombre": "Arroz",
+        "Stock": "74",
+        "Precio": "4223"
+    },
+    {
+        "ID": "1006",
+        "Nombre": "Aceite",
+        "Stock": "76",
+        "Precio": "6103"
+    },
+    {
+        "ID": "1007",
+        "Nombre": "Fideos",
+        "Stock": "70",
+        "Precio": "920"
+    },
+    {
+        "ID": "1008",
+        "Nombre": "Detergente",
+        "Stock": "56",
+        "Precio": "7779"
+    },
+    {
+        "ID": "1009",
+        "Nombre": "Galletitas",
+        "Stock": "98",
+        "Precio": "7757"
+    },
+    {
+        "ID": "1010",
+        "Nombre": "Harina",
+        "Stock": "50",
+        "Precio": "3513"
+    },
+    {
+        "ID": "1011",
+        "Nombre": "Lentejas",
+        "Stock": "29",
+        "Precio": "8807"
+    },
+    {
+        "ID": "1012",
+        "Nombre": "Shampoo",
+        "Stock": "80",
+        "Precio": "9349"
+    },
+    {
+        "ID": "1013",
+        "Nombre": "Acondicionador",
+        "Stock": "49",
+        "Precio": "7977"
+    },
+    {
+        "ID": "1014",
+        "Nombre": "Papel higiénico",
+        "Stock": "65",
+        "Precio": "7092"
+    },
+    {
+        "ID": "1015",
+        "Nombre": "Jabón líquido",
+        "Stock": "46",
+        "Precio": "946"
+    },
+    {
+        "ID": "1016",
+        "Nombre": "Queso",
+        "Stock": "12",
+        "Precio": "5850"
+    },
+    {
+        "ID": "1017",
+        "Nombre": "Leche",
+        "Stock": "89",
+        "Precio": "4144"
+    },
+    {
+        "ID": "1018",
+        "Nombre": "Café",
+        "Stock": "22",
+        "Precio": "5176"
+    },
+    {
+        "ID": "1019",
+        "Nombre": "Té",
+        "Stock": "66",
+        "Precio": "5963"
+    },
+    {
+        "ID": "1020",
+        "Nombre": "Huevos",
+        "Stock": "100",
+        "Precio": "4803"
+    },
+    {
+        "ID": "1021",
+        "Nombre": "Manteca",
+        "Stock": "100",
+        "Precio": "6741"
+    },
+    {
+        "ID": "1022",
+        "Nombre": "Pan lactal",
+        "Stock": "31",
+        "Precio": "9247"
+    },
+    {
+        "ID": "1023",
+        "Nombre": "Yogur",
+        "Stock": "83",
+        "Precio": "1508"
+    },
+    {
+        "ID": "1024",
+        "Nombre": "Tomate en lata",
+        "Stock": "18",
+        "Precio": "917"
+    },
+    {
+        "ID": "1025",
+        "Nombre": "Agua mineral",
+        "Stock": "68",
+        "Precio": "1019"
+    },
+    {
+        "ID": "1026",
+        "Nombre": "Jugo en polvo",
+        "Stock": "45",
+        "Precio": "7339"
+    },
+    {
+        "ID": "1027",
+        "Nombre": "Jugo natural",
+        "Stock": "80",
+        "Precio": "2719"
+    },
+    {
+        "ID": "1028",
+        "Nombre": "Sal fina",
+        "Stock": "99",
+        "Precio": "1766"
+    },
+    {
+        "ID": "1029",
+        "Nombre": "Sal gruesa",
+        "Stock": "60",
+        "Precio": "6805"
+    },
+    {
+        "ID": "1030",
+        "Nombre": "Cereal",
+        "Stock": "67",
+        "Precio": "7986"
+    },
+    {
+        "ID": "1031",
+        "Nombre": "Cacao",
+        "Stock": "80",
+        "Precio": "7658"
+    },
+    {
+        "ID": "1032",
+        "Nombre": "Ropa interior",
+        "Stock": "20",
+        "Precio": "752"
+    },
+    {
+        "ID": "1033",
+        "Nombre": "Remera manga larga",
+        "Stock": "71",
+        "Precio": "8213"
+    },
+    {
+        "ID": "1034",
+        "Nombre": "Buzo",
+        "Stock": "51",
+        "Precio": "8162"
+    },
+    {
+        "ID": "1035",
+        "Nombre": "Campera",
+        "Stock": "67",
+        "Precio": "8161"
+    },
+    {
+        "ID": "1036",
+        "Nombre": "Ropa de cama",
+        "Stock": "38",
+        "Precio": "2087"
+    },
+    {
+        "ID": "1037",
+        "Nombre": "Toalla",
+        "Stock": "63",
+        "Precio": "1321"
+    },
+    {
+        "ID": "1038",
+        "Nombre": "Servilletas",
+        "Stock": "14",
+        "Precio": "4338"
+    },
+    {
+        "ID": "1039",
+        "Nombre": "Trapo de piso",
+        "Stock": "51",
+        "Precio": "7053"
+    },
+    {
+        "ID": "1040",
+        "Nombre": "Lavandina",
+        "Stock": "63",
+        "Precio": "8474"
+    },
+    {
+        "ID": "1041",
+        "Nombre": "Desodorante",
+        "Stock": "12",
+        "Precio": "8750"
+    },
+    {
+        "ID": "1042",
+        "Nombre": "Crema dental",
+        "Stock": "18",
+        "Precio": "8189"
+    },
+    {
+        "ID": "1043",
+        "Nombre": "Cepillo de dientes",
+        "Stock": "95",
+        "Precio": "6642"
+    },
+    {
+        "ID": "1044",
+        "Nombre": "Pan rallado",
+        "Stock": "41",
+        "Precio": "1068"
+    },
+    {
+        "ID": "1045",
+        "Nombre": "Mermelada",
+        "Stock": "18",
+        "Precio": "7559"
+    },
+    {
+        "ID": "1046",
+        "Nombre": "Miel",
+        "Stock": "85",
+        "Precio": "6430"
+    },
+    {
+        "ID": "1047",
+        "Nombre": "Atún en lata",
+        "Stock": "60",
+        "Precio": "1422"
+    },
+    {
+        "ID": "1048",
+        "Nombre": "Gaseosa",
+        "Stock": "81",
+        "Precio": "3465"
+    }
+]
